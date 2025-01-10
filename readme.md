@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TyronSvensli&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Tyron's languages" height="192px"  width="500px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TyronSvensli&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Tyron's languages" height="192px" width="500px"/>
